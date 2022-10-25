@@ -40,6 +40,21 @@ git not initialized
 now add a file
 can i save this file!??
 
+get untrack file
+now it add
+
+git-config.txt file now on track!!
+
+when i change something in this file...
+need to again git add .
+
+now just follow
+
+
+
+
+
+
 
 
 
