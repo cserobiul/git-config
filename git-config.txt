@@ -50,7 +50,60 @@ need to again git add .
 
 now just follow
 
+now i give instruction here...
+after complete this video
+i will marge this
 
+now go to github account and create a repo.
+
+if my project is private i must private
+
+this project is public for all
+so select public
+click create repository
+
+there are 3 option
+
+we just follow 2nd option
+because already we create a project and add file in local pc
+now need to push(upload) our files(project) in github
+
+follow me
+first check where you are
+path must be in your project
+paste and press enter
+
+we could not create new branch
+because every project have a branch name master
+
+we just push our project and check
+
+first time we need to login 
+next time we don't need to login
+there are some option for login
+
+i select Sign in with your browser
+
+you can choose another!! :P 
+it refused. sometime its happend!!
+
+how funny it may be uploaded!!
+
+we have already log in
+
+now check
+wow it working
+if we don't login before
+
+we must need login ...
+
+i think you understand
+
+now i check what text are in github
+
+now i copy and paste this text in git-config.txt file
+and git add commit and push
+just follow
 
 
 
